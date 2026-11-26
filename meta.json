@@ -1,0 +1,23 @@
+{
+  "repo": "itop-data-recovery-enterprise-build",
+  "product": "ITop Data Recovery Enterprise Build",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "itop-data-recovery",
+    "how-to-install-itop-data-recovery",
+    "how-to-setup-itop-data-recovery",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "itop-recovery",
+    "itop-data",
+    "itop-data-recovery-enterprise-build"
+  ],
+  "site": "unaflore.co",
+  "product_title": "ITop Data Recovery Enterprise Build"
+}
